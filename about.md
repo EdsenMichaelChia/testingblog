@@ -14,9 +14,7 @@ You can cite the project as:
 
 >    *The Carpentries 2019 Annual Report. Zenodo. https://doi.org/10.5281/zenodo.3840372*
 
-<hr>
-<p>Contact us</p>
-<ul>
-    <li>Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-    <li>Twitter: <a href="{{ site.twitter }}">{{ site.twitter }}</a></li>
-</ul>
+## Contact us
+
+- Email: [{{ site.email }}](mailto:{{ site.email }})
+- Twitter: [@thecarpentries](https://twitter.com/thecarpentries)
