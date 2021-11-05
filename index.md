@@ -1,5 +1,5 @@
  ---
- lesson-example: "https://carpentries.github.io/lesson-example/"
+ layout: default
  ---
              
 {% include navigation.html %}
