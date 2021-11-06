@@ -1,8 +1,7 @@
 ---
 layout: default
+title: "Building Websites in GitHub"
 ---
-# Building Websites in GitHub
-
 ## Description
 {{ site.description }}
 
