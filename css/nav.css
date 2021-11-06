@@ -1,5 +1,4 @@
 table{
     background-color: honeydew;
-    border-width: 2em;
-    border-color: black;
+    border: 2px solid black;
 }
