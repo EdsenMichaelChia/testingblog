@@ -1,6 +1,3 @@
- ---
- layout: default
- ---
 
 # Building Websites in GitHub
 
