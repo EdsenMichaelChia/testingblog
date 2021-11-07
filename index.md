@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: "Building Websites in GitHub"
 ---
 ## Description
