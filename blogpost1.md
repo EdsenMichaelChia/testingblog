@@ -2,7 +2,8 @@
 layout: post
 title: Learn more about me!
 author: Sammi Chia Li
-date: 2002-4-16
+date: 2021-11-8
+age: 19 years old
 gender: Female
 ---
 <link rel="stylesheet" href="bgpost_img.css">
