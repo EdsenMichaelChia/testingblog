@@ -1,4 +1,7 @@
-
+---
+layout: home
+title: "Building Websites in GitHub"
+---
 ## Description
 {{ site.description }}
 
