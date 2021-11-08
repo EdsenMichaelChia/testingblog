@@ -6,7 +6,7 @@ date: 2021-11-8
 age: 19 years old
 gender: Female
 ---
-<link rel="stylesheet" href="bgpost_img.css">
+<link rel="stylesheet" href="css/bgpost_img.css">
 
 ![Image](images/sammi.jpg# profile_pic border)
 
