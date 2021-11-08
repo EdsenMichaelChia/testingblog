@@ -1,5 +1,5 @@
 ---
-layout: about_details
+layout: default
 title: About
 ---
 ## Project
