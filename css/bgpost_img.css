@@ -1,0 +1,7 @@
+img[src~="profile_pic"] {
+    width:150px;
+    height:100px;
+ }
+ img[src~="border"] {
+    border: 1px solid black;
+ }
